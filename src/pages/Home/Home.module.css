@@ -1,0 +1,12 @@
+.home {
+}
+
+.home h1 {
+  text-align: center;
+}
+
+.home hr {
+  height: 1px;
+  background-color: black;
+  border: none;
+}
